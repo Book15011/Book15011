@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 🚀 I’m passionate about robotics, AI, and engineering, currently developing a basketball-playing robot and training a reinforcement-learning-based bot for strategic board games.
 🤝 I’m open to collaborations on AI-driven gaming strategies, robotics competitions, and reinforcement learning projects.
 🎯 Seeking insights on optimizing reinforcement learning models and enhancing mechanical precision for my robot’s shooting mechanism.
