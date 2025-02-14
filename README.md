@@ -1,10 +1,17 @@
 # 💫 About Me:
-🚀 I’m passionate about robotics, AI, and engineering, currently developing a basketball-playing robot and training a reinforcement-learning-based bot for strategic board games.
-🤝 I’m open to collaborations on AI-driven gaming strategies, robotics competitions, and reinforcement learning projects.
-🎯 Seeking insights on optimizing reinforcement learning models and enhancing mechanical precision for my robot’s shooting mechanism.
-📚 Currently improving my skills in advanced reinforcement learning techniques and Fusion 360 for laser-cutting designs.
-💡 Ask me about robotics, reinforcement learning, and mechanical design—I’m always eager to explore new challenges!
-⚡ Fun fact: While engineering a competition-ready robot, I’m also a CUHK ROBOCON team member and an International Ambassador!
+🚀 I’m passionate about robotics, mechanical design, and automation, with hands-on experience in developing a basketball-playing robot. I’m currently expanding my expertise in ROS and computer vision to enhance robotic perception and automation.
+
+🤖 I specialize in robot design, prototyping, and system integration, combining mechanical engineering principles with AI-driven automation to create high-performance robotic systems.
+
+🤝 I’m seeking a robotics internship to gain real-world hands-on experience, contribute to innovative projects, and further develop my skills in hardware prototyping, kinematics, and control systems.
+
+🎯 I’m eager to lean more about Robot Operating System (ROS), Computer Vision, refine reinforcement learning models, optimize robotic motion planning, and enhance mechanical precision for high-performance robotic applications.
+
+📚 Currently honing my skills in computer vision, Robot Operating System (ROS),  and advance SolidWork for precise mechanical design.
+
+💡 Ask me about robotics, reinforcement learning, mechatronics, and automation—I thrive on tackling complex engineering challenges!
+
+⚡ Fun fact: While designing competition-ready robots, I’m also a CUHK ROBOCON 2025 team member. 
 
 
 ## 🌐 Socials:
