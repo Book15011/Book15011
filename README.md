@@ -13,7 +13,7 @@
 
 ⚡ Fun fact: While designing competition-ready robots, I’m also a CUHK ROBOCON 2025 team member. 
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=briefcase&logoColor=white)](https://book15011.github.io/)
 ## 🌐 Socials:
 [![MY WEBSITE](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://book15011.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanisorn-jarudilokkul-048870326/)
