@@ -21,7 +21,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanisorn-jarudilokkul-048870326/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanisornjarudilokkul@gmail.com)
 
+# Purple accent:
+[![MY WEBSITE](https://img.shields.io/badge/MY_WEBSITE-7B1FA2?style=for-the-badge&logo=globe&logoColor=white&labelColor=4A235A&scale=1.3)](https://book15011.github.io/)
 
+# Teal accent:
+[![MY WEBSITE](https://img.shields.io/badge/MY_WEBSITE-26A69A?style=for-the-badge&logo=globe&logoColor=white&labelColor=00695C&scale=1.3)](https://book15011.github.io/)
 
 </div>
 
