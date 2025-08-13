@@ -16,10 +16,12 @@
 ## 🌐 Socials:
 <div align="center">
   
+[![MY WEBSITE](https://img.shields.io/badge/MY_WEBSITE-FF6D00?style=for-the-badge&logo=globe&logoColor=white&labelColor=black&scale=1.3)](https://book15011.github.io/)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanisorn-jarudilokkul-048870326/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanisornjarudilokkul@gmail.com)
 
-[![MY WEBSITE](https://img.shields.io/badge/MY_WEBSITE-FF6D00?style=for-the-badge&logo=globe&logoColor=white&labelColor=black&scale=1.3)](https://book15011.github.io/)
+
 
 </div>
 
