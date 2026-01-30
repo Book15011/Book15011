@@ -1,3 +1,8 @@
+<br><br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
 # 💫 About Me:
 🚀 I’m passionate about robotics, mechanical design, and automation, with hands-on experience in developing a basketball-playing robot. I’m currently expanding my expertise in ROS and computer vision to enhance robotic perception and automation.
 
