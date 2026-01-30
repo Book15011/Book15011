@@ -5,21 +5,30 @@
 
 # 💫 About Me:
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="380" alt="robot-gif">
-
-🚀 I’m passionate about **robotics, mechanical design, and automation**, with hands-on experience in developing a basketball-playing robot. I’m currently expanding my expertise in **ROS and computer vision** to enhance robotic perception and automation.
-
-🤖 I specialize in robot design, prototyping, and system integration, combining mechanical engineering principles with AI-driven automation to create high-performance robotic systems.
-
-🤝 I’m seeking a **robotics internship** to gain real-world hands-on experience, contribute to innovative projects, and further develop my skills in hardware prototyping, kinematics, and control systems.
-
-🎯 I’m eager to learn more about Robot Operating System (ROS), Computer Vision, refine reinforcement learning models, optimize robotic motion planning, and enhance mechanical precision.
-
-📚 Currently honing my skills in computer vision, ROS, and advanced SolidWorks for precise mechanical design.
-
-⚡ **Fun fact:** While designing competition-ready robots, I’m also a CUHK ROBOCON 2025 team member.
-
-<br clear="right"> 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>
+        🚀 I’m passionate about <b>robotics, mechanical design, and automation</b>, with hands-on experience in developing a basketball-playing robot. I’m currently expanding my expertise in <b>ROS and computer vision</b> to enhance robotic perception and automation.
+      </p>
+      <p>
+        🤖 I specialize in robot design, prototyping, and system integration, combining mechanical engineering principles with AI-driven automation to create high-performance robotic systems.
+      </p>
+      <p>
+        🤝 I’m seeking a <b>robotics internship</b> to gain real-world experience, contribute to innovative projects, and further develop my skills in hardware prototyping, kinematics, and control systems.
+      </p>
+      <p>
+        🎯 I’m eager to learn more about Robot Operating System (ROS), Computer Vision, refine reinforcement learning models, and optimize robotic motion planning.
+      </p>
+      <p>
+        ⚡ <b>Fun fact:</b> While designing competition-ready robots, I’m also a CUHK ROBOCON 2025 team member.
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
