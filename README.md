@@ -39,7 +39,7 @@
 </p>
 
 ---
-<div align="center">
-  <a href="https://book15011.github.io/">![Website](https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=globe&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/thanisorn-jarudilokkul-048870326/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</div>
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
