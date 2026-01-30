@@ -55,9 +55,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Book15011&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Book15011&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Book15011&theme=radical&hide_border=true&background=1a1b27" width="48%" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Book15011&layout=compact&theme=radical&hide_border=true" width="70%" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
