@@ -47,16 +47,16 @@
 # 💻 Tech Stack:
 ![SolidWork](https://img.shields.io/badge/SolidWorks-%23E2231A.svg?style=for-the-badge&logo=solidworks&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FCA121.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
-### 📡 System Dashboard
+### 📊 Robotics Telemetry & Logic Flow
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Book15011/Book15011/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Book15011/Book15011/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Book15011&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Book15011&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Book15011&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Book15011&theme=radical&hide_border=true" width="48%" />
 </p>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
