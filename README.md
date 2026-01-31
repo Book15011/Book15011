@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="center">
   
 [![MY WEBSITE](https://img.shields.io/badge/MY_WEBSITE-FF6D00?style=for-the-badge&logo=globe&logoColor=white&labelColor=black&scale=1.3)](https://book15011.github.io/)
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 Contributions
+# 📊 Contributions
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Book15011/Book15011/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" /> </p>
 
