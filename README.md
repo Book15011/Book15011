@@ -3,7 +3,7 @@
 <br><br>
 
 
-# 💫 About Me:
+#  About Me:
 
 <table>
   <tr>
